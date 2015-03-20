@@ -1,0 +1,2 @@
+# transistoriluento
+Näin valitsen transistorin
